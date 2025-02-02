@@ -46,7 +46,7 @@ An excel file with one worksheet was supplied. The worksheet contain sales data 
 1. Invest more in technology and office equipments.
 2. Non profitable products like table should be sold in areas where it is in high demand and more profitable
 
-   Interact with Repor [here](https://1drv.ms/x/c/bb8682ef2329453b/ESZABoYcdypAmByMjBJfiKoBxuIJn65cR9v0PncB_Pc5BQ?e=amNhtZ)
+   Interact with Report [here](https://1drv.ms/x/c/bb8682ef2329453b/ESZABoYcdypAmByMjBJfiKoBxuIJn65cR9v0PncB_Pc5BQ?e=amNhtZ)
 
 
   
