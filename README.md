@@ -1,6 +1,6 @@
 
 
-# Sales-Performanc-Report
+# Sales-Performanc-Dashboard using excel
 Analysis of fictional store dataset using excel
 
 ## Project Overview
